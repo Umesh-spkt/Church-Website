@@ -1,0 +1,16 @@
+iframe{
+    margin:auto;
+   
+}
+.map{
+    border:solid 20px white;
+    border-radius: 0px 15px 15px 0px;
+    margin:auto;
+    position:relative;
+    left:-90px
+   
+
+}
+.above{
+    background-color: #fff;
+}

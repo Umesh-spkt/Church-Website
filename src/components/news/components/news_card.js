@@ -2,7 +2,7 @@ import React from 'react'
 import './news_card.css'
 import Image from '../../../images/image.png'
 
-const News_card=(props)=>
+const News_Card=(props)=>
 {
     return(
         <div className="card">
@@ -19,4 +19,4 @@ const News_card=(props)=>
     )
 
 }
-export default News_card;
+export default News_Card;

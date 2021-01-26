@@ -1,8 +1,4 @@
 .news_container{
     width:70%;
     margin:auto;
-    padding:50px;
-    background-color:white;
-    display: flex;
-    margin-bottom: 50px;
-}
+    display:flex;}

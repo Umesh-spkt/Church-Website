@@ -1,0 +1,14 @@
+#container-form{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.6)),
+    url("https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");;
+    margin-bottom: 10px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+ 
+ 
+  
+}
+    

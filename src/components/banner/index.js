@@ -8,7 +8,7 @@ import Time from './components/time';
 
 const Banner = (props) => {
     return (
-        <div>
+        <div className="main_container">
             <div className="banners">
                 <div className="banner" >
                     <p><i>Monday, 10:00 Am - Friday, 10:00 Am</i></p>

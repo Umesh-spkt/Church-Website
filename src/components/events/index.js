@@ -6,11 +6,12 @@ import './Events.css';
 
 const Events_Container = (props) => {
     return (
+        <div>
+            <Title color="#222">Our Events</Title>
 
         <div className="container">
-            <Title color="#222">Our Events</Title>
-            <div className="cards">
-                <Events image="./images/image.jpg" description="The purpose of lorem ipsum is to create a natural 
+            
+                <Events description="The purpose of lorem ipsum is to create a natural 
         looking block of text (sentence, paragraph, page, etc.) that doesn't 
         distract from the layout. A practice not without controversy, laying 
         out pages with meaningless filler text can be very useful when the 
@@ -41,6 +42,7 @@ const Events_Container = (props) => {
 
             
         </div>
+       
     )
 }
 export default Events_Container;
